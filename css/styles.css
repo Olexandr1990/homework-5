@@ -44,5 +44,23 @@ font-size: 16px;
     outline: 2px solid red;
     width: 400px;
     height:133px;
+}
+.footer > div {
+background: darkcyan;
+outline: 2px solid red;
+width: 400px;
+height: 400px;
+display: inline-block;
+display: table-cell;
+font-size: 16px;
+}
+.footer > .tree {
+width: 800px;
+height: 400px;
 
+}
+.tree > .four{
+    width: 800;
+    height: 200px;
+    outline: 2px solid red;
 }
