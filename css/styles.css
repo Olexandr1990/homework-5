@@ -1,0 +1,48 @@
+@import url('reset.css');
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+    background: bisque;
+    font-size: 0;
+
+}
+
+.first > div {
+background: yellow;
+outline: 2px solid red;
+width: 400px;
+height: 400px;
+display: inline-block;
+font-size: 16px;
+}
+.second > div {
+   outline: 2px solid red;
+   display: table-cell;
+   margin: o auto;
+   
+}
+
+.one{
+    background: greenyellow;
+    font-size: 16px;
+    width: 800px;
+    height: 200px;
+
+}
+.second-one {
+background: fuchsia;
+outline: 2px solid red;
+width: 400px;
+height: 400px;
+font-size: 16px;
+
+}
+.second-one > div{
+    outline: 2px solid red;
+    width: 400px;
+    height:133px;
+
+}
